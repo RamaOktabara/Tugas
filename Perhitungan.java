@@ -1,4 +1,3 @@
-package model;
 import interfaces.interfaces;
 public class Perhitungan implements interfaces  {
     public int a;  //the value of the field perhitungan  
